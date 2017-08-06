@@ -1,0 +1,27 @@
+{
+  "name": "unicode-emoji-parser",
+  "version": "1.0.0",
+  "description": "Get the latest up-to-date emoji by parsing them directly from Unicode.",
+  "main": "emoji-parser.js",
+  "scripts": {
+    "test": "node getemoji"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdodov/unicode-emoji-parser/"
+  },
+  "keywords": [
+    "get",
+    "receive",
+    "download",
+    "lastest",
+    "relevant",
+    "emoji",
+    "parse",
+    "parser",
+    "request",
+    "unicode"
+  ],
+  "author": "Hristiyan Dodov",
+  "license": "MIT"
+}
